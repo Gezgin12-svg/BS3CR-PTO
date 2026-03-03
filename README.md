@@ -41,7 +41,7 @@
 
 ### 📸 Proje Görseli
 
-## <img src="./images/ekran.gif">
+<img src="ekran.gif">
 
 ### 📌 Notlar
 
